@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "pro-c56:-dj-audio-mixer-app-final-stage",
+    "slug": "snack-0c00a0f6-07bd-4bc8-bc77-c4aad7917b2c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
